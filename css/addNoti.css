@@ -1,0 +1,66 @@
+#addNoti{
+  position: absolute;
+  width: 36%;
+  height: 50%;
+  background: #647398;
+  left: 32%;
+  top: 20%;
+  display: none;
+  z-index: 2;
+}
+
+#addNoti select{
+  height: 30px;
+  font-size: 15px;
+}
+
+#addNoti p{
+  font-size: 30px;
+}
+
+#addNoti #hr1{
+  position: absolute;
+  width: 80%;
+  left: 10%;
+  top: 15%;
+}
+#addNoti #hr2{
+  position: absolute;
+  width: 80%;
+  left: 10%;
+  top: 75%;
+}
+#addNoti #lab1{
+  position: absolute;
+  left: 15%;
+  top: 20%;
+}
+
+#addNoti #lab2{
+  position: absolute;
+  left: 15%;
+  top: 35%;
+}
+
+#addNoti #lab3{
+  position: absolute;
+  left: 15%;
+  top: 50%;
+}
+
+#addNoti #lab3 select{
+  width: 270px;
+}
+
+
+#addNoti #create{
+  position: absolute;
+  top: 80%;
+  left: 50%;
+}
+
+#addNoti #cancel{
+  position: absolute;
+  top: 80%;
+  left: 25%;
+}

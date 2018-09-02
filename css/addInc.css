@@ -1,0 +1,76 @@
+#addInc{
+	position: absolute;
+	width: 36%;
+	height: 80%;
+	background: #647398;
+	left: 32%;
+	top: 10%;
+	display: none;
+	z-index: 2;
+}
+
+#addInc select{
+	height: 30px;
+	font-size: 15px;
+}
+
+#addInc p{
+	font-size: 30px;
+}
+
+#hr1{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 10%;
+}
+
+#hr2{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 45%;
+}
+
+#hr3{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 80%;
+}
+
+#lab1{
+	position: absolute;
+	top: 18%;
+	left: 15%;
+}
+
+#lab2{
+	position: absolute;
+	top: 33%;
+	left: 15%;
+}
+
+#lab3{
+	position: absolute;
+	top: 53%;
+	left: 15%;
+}
+
+#lab4{
+	position: absolute;
+	top: 68%;
+	left: 15%;
+}
+
+#create{
+	position: absolute;
+	top: 90%;
+	left: 50%;
+}
+
+#cancel{
+	position: absolute;
+	top: 90%;
+	left: 25%;
+}

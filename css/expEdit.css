@@ -1,0 +1,60 @@
+#expEdit{
+	position: absolute;
+	width: 36%;
+	height: 60%;
+	background: #647398;
+	left: 32%;
+	top: 10%;
+	/*display: none;*/
+	z-index: 2;
+}
+#expEdit p{
+	font-size: 30px;
+}
+#expEdit select{
+	height: 30px;
+	font-size: 15px;
+}
+#hr1{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 15%;
+}
+#hr2{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 75%;
+}
+#lab1{
+	position: absolute;
+	left: 15%;
+	top:20%;
+}
+#lab2{
+	position: absolute;
+	left: 15%;
+	top:32%;
+}
+#lab3{
+	position: absolute;
+	left: 15%;
+	top:45%;
+}
+#lab4{
+	position: absolute;
+	left: 15%;
+	top:60%;
+}
+#create{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+}
+
+#cancel{
+	position: absolute;
+	top: 85%;
+	left: 25%;
+}

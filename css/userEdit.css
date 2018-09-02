@@ -1,0 +1,60 @@
+#userEdit{
+	position: absolute;
+	width: 36%;
+	height: 60%;
+	background: #647398;
+	left: 32%;
+	top: 15%;
+	/*display: none;*/
+	z-index: 2;
+}
+#userEdit p{
+	font-size: 30px;
+}
+#hr1{
+	position: absolute;
+	left: 10%;
+	top: 15%;
+	width: 80%;
+}
+#hr2{
+	position: absolute;
+	left: 10%;
+	top: 75%;
+	width: 80%;
+}
+#userEdit select{
+	height: 30px;
+	font-size: 15px;
+}
+#lab1{
+	position: absolute;
+	left: 15%;
+	top:20%;
+}
+#lab2{
+	position: absolute;
+	left: 15%;
+	top:32%;
+}
+#lab3{
+	position: absolute;
+	left: 15%;
+	top:44%;
+}
+#lab4{
+	position: absolute;
+	left: 15%;
+	top:56%;
+}
+#create{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+}
+
+#cancel{
+	position: absolute;
+	top: 85%;
+	left: 25%;
+}

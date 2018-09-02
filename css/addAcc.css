@@ -1,0 +1,60 @@
+#addAcc{
+	position: absolute;
+	width: 36%;
+	height: 40%;
+	background: #647398;
+	left: 32%;
+	top: 20%;
+	display: none;
+	z-index: 2;
+}
+
+#addAcc select{
+	height: 30px;
+	width: 227px;
+	font-size: 15px;
+}
+
+#addAcc p{
+	font-size: 30px;
+}
+
+#addAcc #lab1{
+	position: absolute;
+	top: 30%;
+	left: 15%;
+}
+
+#addAcc #lab1 input{
+	width: 200px;
+}
+
+#addAcc #lab2{
+	position: absolute;
+	top: 50%;
+	left: 15%;
+}
+
+#addAcc #hr1{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 20%;
+}
+#addAcc #hr2{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 75%;
+}
+#addAcc #create{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+}
+
+#addAcc #cancel{
+	position: absolute;
+	top: 85%;
+	left: 25%;
+}

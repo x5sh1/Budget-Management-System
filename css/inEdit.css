@@ -1,0 +1,59 @@
+#inEdit{
+	position: absolute;
+	width: 36%;
+	height: 50%;
+	background: #647398;
+	left: 32%;
+	top: 20%;
+	/*display: none;*/
+	z-index: 2;
+}
+
+#inEdit select{
+	height: 30px;
+	font-size: 15px;
+}
+#inEdit p{
+	font-size: 30px;
+}
+#hr1{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 15%;
+}
+#hr2{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 75%;
+}
+#lab1{
+	position: absolute;
+	top: 25%;
+	left: 15%;
+}
+
+#lab2{
+	position: absolute;
+	top: 40%;
+	left: 15%;
+}
+
+#lab3{
+	position: absolute;
+	top: 55%;
+	left: 15%;
+}
+
+#create{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+}
+
+#cancel{
+	position: absolute;
+	top: 85%;
+	left: 25%;
+}

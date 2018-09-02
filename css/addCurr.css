@@ -1,0 +1,46 @@
+#addCurr{
+	position: absolute;
+	width: 36%;
+	height: 40%;
+	background: #647398;
+	left: 32%;
+	top: 20%;
+	display: none;
+	z-index: 2;
+}
+#addCurr p{
+	font-size: 30px;
+}
+#addCurr #hr1{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 20%;
+}
+#addCurr #hr2{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 70%;
+}
+#addCurr #lab1{
+	position: absolute;
+	top: 30%;
+	left: 15%;
+}
+#addCurr #lab2{
+	position: absolute;
+	top: 50%;
+	left: 15%;
+}
+#addCurr #create{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+}
+
+#addCurr #cancel{
+	position: absolute;
+	top: 80%;
+	left: 25%;
+}

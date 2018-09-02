@@ -1,0 +1,55 @@
+#notiEdit{
+	position: absolute;
+	width: 36%;
+	height: 50%;
+	background: #647398;
+	left: 32%;
+	top: 20%;
+	/*display: none;*/
+	z-index: 2;
+}
+#notiEdit p{
+	font-size: 30px;
+}
+#notiEdit select{
+	height: 30px;
+	font-size: 15px;
+}
+#hr1{
+	position: absolute;
+	width: 80%;
+	top: 15%;
+	left: 10%;
+}
+#hr2{
+	position: absolute;
+	width: 80%;
+	top: 75%;
+	left: 10%;
+}
+#lab1{
+	position: absolute;
+	left: 15%;
+	top:20%;
+}
+#lab2{
+	position: absolute;
+	left: 15%;
+	top:33%;
+}
+#lab3{
+	position: absolute;
+	left: 15%;
+	top:53%;
+}
+#create{
+	position: absolute;
+	top: 85%;
+	left: 50%;
+}
+
+#cancel{
+	position: absolute;
+	top: 85%;
+	left: 25%;
+}

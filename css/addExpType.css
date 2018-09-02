@@ -1,0 +1,50 @@
+#addExpType{
+	position: absolute;
+	width: 36%;
+	height: 40%;
+	background: #647398;
+	left: 32%;
+	top: 20%;
+	display: none;
+	z-index: 2;
+}
+#addExpType select{
+	height: 30px;
+	font-size: 15px;
+}
+#addExpType #hr1{
+	position: absolute;
+	left: 10%;
+	top: 20%;
+	width: 80%;
+}
+#addExpType #hr2{
+	position: absolute;
+	left: 10%;
+	top: 70%;
+	width: 80%;
+}
+#addExpType p{
+	font-size: 30px;
+}
+#addExpType #lab1{
+	position: absolute;
+	left: 15%;
+	top: 30%;
+}
+#addExpType #lab2{
+	position: absolute;
+	left: 15%;
+	top: 50%;
+}
+#addExpType #create{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+}
+
+#addExpType #cancel{
+	position: absolute;
+	top: 80%;
+	left: 25%;
+}

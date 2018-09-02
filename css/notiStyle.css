@@ -1,0 +1,51 @@
+#subtitle{
+	position: absolute;
+	left: 20%;
+	top: 15%;
+	width:80%;
+	height:8%;
+	background:#000000; 
+}
+#subtitle p{
+	text-align: center;
+	color: #FFF;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+#notiTab{
+	position: absolute;
+	left: 20%;
+	top: 26.6%;
+	width: 80%;
+	height: 74%;
+	overflow:auto;
+    overflow-y:auto;
+    overflow-x:auto;
+}
+
+#notiTab table{
+	width: 100%;
+	font-size: 13px;
+}
+
+#notiTab button{
+	float: right;
+}
+
+#tabTit{
+	position: absolute;
+	top: 23%;
+	left: 20%;
+	width:80%;
+	height: 3%;
+	font-size: 13px;
+}
+
+#tabTit table{
+	width: 100%;
+}
+
+#notificationType{
+	width: 80px;
+}

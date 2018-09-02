@@ -1,0 +1,80 @@
+#addExp{
+	position: absolute;
+	width: 36%;
+	height: 80%;
+	background: #647398;
+	left: 32%;
+	top: 10%;
+	display: none;
+	z-index: 2;
+}
+
+#addExp select{
+	height: 30px;
+	font-size: 15px;
+}
+
+#addExp p{
+	font-size: 30px;
+}
+
+#addExp #hr1{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 10%;
+}
+
+#addExp #hr2{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 40%;
+}
+#addExp #hr3{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	top: 85%;
+}
+
+#addExp #lab1{
+	position: absolute;
+	top: 15%;
+	left: 15%;
+}
+
+#addExp #lab2{
+	position: absolute;
+	top: 30%;
+	left: 15%;
+}
+#addExp #lab3{
+	position: absolute;
+	top: 45%;
+	left: 15%;
+}
+
+#addExp #lab4{
+	position: absolute;
+	top: 57%;
+	left: 15%;
+}
+
+#addExp #lab5{
+	position: absolute;
+	top: 70%;
+	left: 15%;
+}
+
+#addExp #create{
+	position: absolute;
+	top: 90%;
+	left: 50%;
+}
+
+#addExp #cancel{
+	position: absolute;
+	top: 90%;
+	left: 25%;
+}
